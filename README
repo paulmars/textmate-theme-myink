@@ -3,8 +3,8 @@
 My high contrast Textmate theme
 
 cd [THIS DIRECTORY]
-./install.sh
+cp MyInk.tmTheme ~/Library/Application\ Support/TextMate/Themes
 
-reboot textmate
+[reboot textmate]
 
 go to textmate [apple + ,] => font + colors => My Ink
