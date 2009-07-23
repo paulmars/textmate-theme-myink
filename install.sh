@@ -1,0 +1,1 @@
+cp MyInk.tmTheme ~/Library/Application\ Support/TextMate/Themes

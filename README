@@ -1,0 +1,10 @@
+# TEXTMATE Theme
+
+My high contrast Textmate theme
+
+cd [THIS DIRECTORY]
+./install.sh
+
+reboot textmate
+
+go to textmate [apple + ,] => font + colors => My Ink
