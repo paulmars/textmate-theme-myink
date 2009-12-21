@@ -100,7 +100,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#0F4852</string>
+				<string>#84ABB8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -187,7 +187,7 @@
 				<key>background</key>
 				<string>#070707</string>
 				<key>foreground</key>
-				<string>#30E1FF</string>
+				<string>#22A0B6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -222,7 +222,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66FF00</string>
+				<string>#48B700</string>
 			</dict>
 		</dict>
 		<dict>
