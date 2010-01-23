@@ -325,7 +325,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF6600</string>
+				<string>#FFB65D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -438,17 +438,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#FF6600</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>entity.name</string>
-			<key>scope</key>
-			<string>entity.name</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#C32426</string>
 			</dict>
 		</dict>
 		<dict>
